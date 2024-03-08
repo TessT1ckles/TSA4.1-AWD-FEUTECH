@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+        
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+#header_bg {
+    background: linear-gradient(to right, #00CDAC, #02AAB0);
+    height: auto;
+    
+    align-items: center;
+}
+
+#body_bg_1 {
+    background: linear-gradient(to right, #1a9984, #025658);
+    height: auto;
+    align-items: center;
+}
+
+#footer_bg_1 {
+    background: linear-gradient(to right, #115e51, #012324);
+    height: 250px;
+    align-items: center;
+}
+
+#footer_bg_2 {
+    background: linear-gradient(to right, #09332c, #000f0f);
+    height: auto;
+    align-items: center;
+}
